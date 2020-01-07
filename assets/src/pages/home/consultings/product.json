@@ -1,0 +1,30 @@
+[
+  [
+    {
+      "id": "launch",
+      "icon": "fas fa-space-shuttle fa-2x",
+      "heading": "Have you Launched?",
+      "description": "Most products never make it out the door, due to lack of understanding of product the product lifecycle. Knowing when you have enough features to launch can make all the difference."
+    },
+    {
+      "id": "feedback",
+      "icon": "fas fa-infinity fa-2x",
+      "heading": "Feedback Loop",
+      "description": "Establishing a feedback loop is key, to your product and business. Understanding who your customers are and how they're using your product is key to the survival of a product."
+    }
+  ],
+  [
+    {
+      "id": "market-fit",
+      "icon": "fas fa-hand-holding-usd fa-2x",
+      "heading": "Market Fit",
+      "description": "Do you have product market fit? Or are you still finding it? How do you know when you have product market fit? Should you pivot or stay on course?"
+    },
+    {
+      "id": "culture",
+      "icon": "fas fa-smile-beam fa-2x",
+      "heading": "Great Culture Grows Businesses",
+      "description": "Does your company have a hard time attracting talent? How do you improve the internal culture? Do you have a hiring pipeline? Establishing a great culture is the key to growing a team."
+    }
+  ]
+]

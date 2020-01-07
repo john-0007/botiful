@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1,13,14],{84:function(a,n,o){a.exports=o.p+"assets/codemy-logo-471555914a31731711060b693995880a.png"},85:function(a,n,o){a.exports=o.p+"assets/tba-a58189864133fbae093aca7f2e486798.png"},9:function(a,n,o){"use strict";o.r(n);var s=o(84),e=o.n(s),t=o(85),p=o.n(t);n.default={codemy:e.a,tba:p.a}}}]);

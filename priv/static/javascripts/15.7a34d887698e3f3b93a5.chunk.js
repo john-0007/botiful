@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{87:function(n,p,o){n.exports=o.p+"assets/favicon-d633c495785239336d1908143c630070.png"}}]);
