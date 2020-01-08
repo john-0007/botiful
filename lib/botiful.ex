@@ -12,8 +12,10 @@ defmodule Botiful do
 
   plug :match
   plug :dispatch
-
+  require IEx
   get "/" do
+    IEx.pry
+
     conn
     |> put_resp_header("content-type", "text/html; charset=utf-8")
     |> send_file(:ok, root())
